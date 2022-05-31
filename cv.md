@@ -30,3 +30,6 @@ Completed two courses of the FAMCS, BSU
 ##### Courses:
 * UI/UX courses
 * freecodecamp
+******
+##### English level
+B1
